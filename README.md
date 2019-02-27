@@ -8,6 +8,12 @@ Have only converted it to a spring boot gradle project.
 
 ### How to run the tests
 
+<<<<<<< HEAD
 - # ./gradlew clean test -Ptags='type:Smoke'
 - # ./gradlew clean test -Ptags='type:API'
 - # ./gradlew clean test -Ptags='type:UI'
+=======
+- $ ./gradlew clean test -Ptags='type:Smoke'
+- $ ./gradlew clean test -Ptags='type:API'
+- $ ./gradlew clean test -Ptags='type:UI'
+>>>>>>> 6a0764dba6018f94486067f11e118e25ed860d85
