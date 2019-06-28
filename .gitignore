@@ -25,7 +25,5 @@
 /nbdist/
 /.nb-gradle/
 ### Mark this directory as linguist-vendored
-target/* linguist-vendored
-static/* linguist-vendored
+target/*/* linguist-vendored
 
-*.* linguist-language=Java
